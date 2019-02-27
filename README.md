@@ -1,2 +1,1 @@
-# django-ModelForm1-ic
-Django Model Forms 1
+# Django Model Forms 1
