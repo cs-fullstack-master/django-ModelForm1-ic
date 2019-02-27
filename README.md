@@ -1,9 +1,9 @@
 # Django Model Forms 1
 
-##Lecture:
+## Lecture:
 Discuss model (bound) forms
 
-###Exercise 1:
+### Exercise 1:
 Code together basic User signup page:
 
 ```
